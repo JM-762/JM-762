@@ -57,7 +57,7 @@ I am deeply focused on **software engineering, clean code, database modeling, an
 
 
 
-## 💻 Linguagens Mais Usadas
+## 💻 Most Used Languages
 
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JM-762&theme=tokyonight)](https://github.com/JM-762)
 
