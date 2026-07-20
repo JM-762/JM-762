@@ -53,10 +53,8 @@ I am deeply focused on **software engineering, clean code, database modeling, an
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JM-762&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM-762&layout=compact&theme=tokyonight" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JM-762&show_icons=true&theme=tokyonight)](https://github.com/JM-762)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-762&layout=compact&theme=tokyonight)](https://github.com/JM-762)
 
 
 ## 🚀 Beyond Code
