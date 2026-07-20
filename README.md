@@ -53,9 +53,7 @@ I am deeply focused on **software engineering, clean code, database modeling, an
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JM-762&show_icons=true&theme=tokyonight)](https://github.com/JM-762)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-762&layout=compact&theme=tokyonight)](https://github.com/JM-762)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JM-762&theme=tokyonight)](https://github.com/JM-762)
 
 ## 🚀 Beyond Code
 
