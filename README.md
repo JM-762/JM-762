@@ -55,6 +55,13 @@ I am deeply focused on **software engineering, clean code, database modeling, an
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JM-762&theme=tokyonight)](https://github.com/JM-762)
 
+
+
+## 💻 Linguagens Mais Usadas
+
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JM-762&theme=tokyonight)](https://github.com/JM-762)
+
+
 ## 🚀 Beyond Code
 
 > _"Technology is a tool to solve real-world problems and create social impact."_
